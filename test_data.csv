@@ -1,0 +1,773 @@
+celeb,height,weight,h,w,BMI,round(BMI)
+Mark Wahlberg15.jpg,1.73 m,78 kg,1.73,78,26.06167931,26.06
+Liza Minnelli5.jpg,1.63m,52kg,1.63,52,19.57168128,19.57
+Pauline Collins11.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Richard Harris1.jpg,1.80 m,73 kg,1.8,73,22.5308642,22.53
+Rachel Riley12.jpg,1.63 m,54 kg,1.63,54,20.32443826,20.32
+Pete Postlethwaite0.jpg,1.78 m,77 kg,1.78,77,24.30248706,24.3
+Liev Schreiber17.jpg,1.92m,84kg,1.92,84,22.78645833,22.79
+Rachel Griffiths12.jpg,1.85 m,91 kg,1.85,91,26.58875091,26.59
+Kristen Stewart14.jpg,1.65m,54kg,1.65,54,19.83471074,19.83
+Paul Walker0.jpg,1.78 m,75 kg,1.78,75,23.67125363,23.67
+Randy Quaid3.jpg,1.83 m,73 kg,1.83,73,21.79820239,21.8
+Ralph Fiennes7.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Paris Jackson6.jpg,1.68 m,55 kg,1.68,55,19.48696145,19.49
+Kevin Spacey17.jpg,1.78m,72kg,1.78,72,22.72440348,22.72
+Logan Lerman18.jpg,1.75m,68kg,1.75,68,22.20408163,22.2
+Rachel McAdams3.jpg,1.78 m,66 kg,1.78,66,20.83070319,20.83
+Pam Grier6.jpg,1.78 m,80 kg,1.78,80,25.2493372,25.25
+Pierce Brosnan13.jpg,1.77 m,70 kg,1.77,70,22.34351559,22.34
+R. Kelly1.jpg,1.78 m,91 kg,1.78,91,28.72112107,28.72
+Richard Gere6.jpg,1.83 m,91 kg,1.83,91,27.17310162,27.17
+Rinko Kikuchi17.jpg,1.73 m,60 kg,1.73,60,20.04744562,20.05
+Linda Fiorentino1.jpg,1.73m,57kg,1.73,57,19.04507334,19.05
+Lily Collins7.jpg,1.65m,51kg,1.65,51,18.73278237,18.73
+Kevin Bacon4.jpg,1.78m,80kg,1.78,80,25.2493372,25.25
+Rashida Jones1.jpg,1.68 m,64 kg,1.68,64,22.67573696,22.68
+Kyle Richards7.jpg,1.65m,55kg,1.65,55,20.2020202,20.2
+Paul Newman6.jpg,1.80 m,73 kg,1.8,73,22.5308642,22.53
+Paul Giamatti4.jpg,1.80 m,68 kg,1.8,68,20.98765432,20.99
+Maggie Grace7.jpg,1.75m,56kg,1.75,56,18.28571429,18.29
+Oscar Isaac19.jpg,1.78 m,75 kg,1.78,75,23.67125363,23.67
+Orlando Bloom17.jpg,1.69 m,77 kg,1.69,77,26.95984034,26.96
+Leighton Meester0.jpg,1.65m,53kg,1.65,53,19.46740129,19.47
+Peter O Toole19.jpg,1.88 m,77 kg,1.88,77,21.78587596,21.79
+Novak Djokovic7.jpg,1.88 m,77 kg,1.88,77,21.78587596,21.79
+Patrick Stewart19.jpg,1.70 m,59 kg,1.7,59,20.41522491,20.42
+Peter Ustinov7.jpg,1.75 m,68 kg,1.75,68,22.20408163,22.2
+Rashida Jones17.jpg,1.68 m,64 kg,1.68,64,22.67573696,22.68
+Patrick Swayze11.jpg,1.79 m,72 kg,1.79,72,22.47120876,22.47
+Olivia Thirlby7.jpg,1.63 m,58 kg,1.63,58,21.8299522,21.83
+Macy Gray6.jpg,1.83m,66kg,1.83,66,19.70796381,19.71
+Patty Duke14.jpg,1.85 m,82 kg,1.85,82,23.95909423,23.96
+Marcia Gay Harden8.jpg,1.63 m,54 kg,1.63,54,20.32443826,20.32
+Logan Lerman16.jpg,1.75m,68kg,1.75,68,22.20408163,22.2
+Rhys Ifans0.jpg,1.63 m,55 kg,1.63,55,20.70081674,20.7
+Paul Dano1.jpg,1.90 m,84 kg,1.9,84,23.26869806,23.27
+LeBron Jamet6.jpg,2.06m,113kg,2.06,113,26.62833443,26.63
+Leonardo DiCaprio15.jpg,1.83m,75kg,1.83,75,22.39541342,22.4
+Robert Shaw19.jpg,1.79 m,70 kg,1.79,70,21.84700852,21.85
+Olivia Thirlby5.jpg,1.63 m,58 kg,1.63,58,21.8299522,21.83
+Khloe Kardashian9.jpg,1.77m,76kg,1.77,76,24.25867407,24.26
+Lesley Manville8.jpg,1.63m,60kg,1.63,60,22.58270917,22.58
+Liv Ullmann10.jpg,1.78m,64kg,1.78,64,20.19946976,20.2
+Laura Dern15.jpg,1.78m,61kg,1.78,61,19.25261962,19.25
+Luke Wilson11.jpg,1.80m,81kg,1.8,81,25.0,25.0
+Nigel Hawthorne16.jpg,1.80 m,68 kg,1.8,68,20.98765432,20.99
+Rihanna11.jpg,1.83 m,86 kg,1.83,86,25.68007405,25.68
+Renee Zellweger2.jpg,1.56 m,57 kg,1.56,57,23.42209073,23.42
+Kiefer Sutherland6.jpg,1.75m,75kg,1.75,75,24.48979592,24.49
+Raquel Welch12.jpg,1.93 m,100 kg,1.93,100,26.84635829,26.85
+Perez Hilton10.jpg,1.68 m,58 kg,1.68,58,20.54988662,20.55
+Mads Mikkelsen9.jpg,1.83m,82kg,1.83,82,24.48565201,24.49
+Patrick Swayze0.jpg,1.79 m,72 kg,1.79,72,22.47120876,22.47
+Parker Posey9.jpg,1.75 m,56 kg,1.75,56,18.28571429,18.29
+Roberto Benigni16.jpg,1.78 m,73 kg,1.78,73,23.0400202,23.04
+Robert Duvall19.jpg,1.74 m,78 kg,1.74,78,25.76298058,25.76
+Lewis Hamilton1.jpg,1.74m,68kg,1.74,68,22.46003435,22.46
+Peter Sellers0.jpg,1.80 m,71 kg,1.8,71,21.91358025,21.91
+Kim Hunter0.jpg,1.57m,48kg,1.57,48,19.47340663,19.47
+Peter O Toole16.jpg,1.88 m,77 kg,1.88,77,21.78587596,21.79
+Robert Duvall6.jpg,1.74 m,78 kg,1.74,78,25.76298058,25.76
+Robert Redford4.jpg,1.85 m,78 kg,1.85,78,22.79035793,22.79
+Marcia Gay Harden2.jpg,1.63 m,54 kg,1.63,54,20.32443826,20.32
+Ray Liotta5.jpg,1.63 m,56 kg,1.63,56,21.07719523,21.08
+Richard Dreyfuss10.jpg,1.78 m,82 kg,1.78,82,25.88057064,25.88
+Lenny Kravitz13.jpg,1.75m,70kg,1.75,70,22.85714286,22.86
+Linda Hamilton7.jpg,1.68m,59kg,1.68,59,20.90419501,20.9
+Kourtney Kardashian13.jpg,1.52m,48kg,1.52,48,20.77562327,20.78
+Peter O Toole2.jpg,1.88 m,77 kg,1.88,77,21.78587596,21.79
+Novak Djokovic19.jpg,1.88 m,77 kg,1.88,77,21.78587596,21.79
+Lindsey Vonn14.jpg,1.78m,73kg,1.78,73,23.0400202,23.04
+Marlon Brando4.jpg,1.75 m,73 kg,1.75,73,23.83673469,23.84
+Maria Bello12.jpg,1.65 m,59 kg,1.65,59,21.67125803,21.67
+Rachel McAdams10.jpg,1.78 m,66 kg,1.78,66,20.83070319,20.83
+Lionel Messi12.jpg,1.70m,72kg,1.7,72,24.91349481,24.91
+Penelope Cruz19.jpg,1.63 m,59 kg,1.63,59,22.20633069,22.21
+Olivia Newton-John3.jpg,1.57 m,52 kg,1.57,52,21.09619051,21.1
+Pauline Collins9.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Margot Robbie15.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Kiefer Sutherland12.jpg,1.75m,75kg,1.75,75,24.48979592,24.49
+Marcia Gay Harden3.jpg,1.63 m,54 kg,1.63,54,20.32443826,20.32
+Lara Stone19.jpg,1.78m,63kg,1.78,63,19.88385305,19.88
+Paul Newman4.jpg,1.80 m,73 kg,1.8,73,22.5308642,22.53
+Lionel Messi8.jpg,1.70m,72kg,1.7,72,24.91349481,24.91
+Lily Collins19.jpg,1.65m,51kg,1.65,51,18.73278237,18.73
+Marlee Matlin1.jpg,1.65 m,54 kg,1.65,54,19.83471074,19.83
+Patty Duke6.jpg,1.85 m,82 kg,1.85,82,23.95909423,23.96
+Nicole Polizzi8.jpg,1.42 m,49 kg,1.42,49,24.30073398,24.3
+Mark Strong0.jpg,1.85 m,85 kg,1.85,85,24.83564646,24.84
+Luke Wilson2.jpg,1.80m,81kg,1.8,81,25.0,25.0
+Kevin Hart18.jpg,1.63m,64kg,1.63,64,24.08822312,24.09
+Linda Fiorentino19.jpg,1.73m,57kg,1.73,57,19.04507334,19.05
+Philip Seymour Hoffman11.jpg,1.91 m,91 kg,1.91,91,24.94449165,24.94
+Rachel Weisz4.jpg,1.73 m,58 kg,1.73,58,19.37919743,19.38
+Kristin Scott Thomas5.jpg,1.73m,56kg,1.73,56,18.71094925,18.71
+Richard Dreyfuss3.jpg,1.78 m,82 kg,1.78,82,25.88057064,25.88
+Paul Newman15.jpg,1.80 m,73 kg,1.8,73,22.5308642,22.53
+Robin Weigert12.jpg,1.68 m,66 kg,1.68,66,23.38435374,23.38
+Linda Hunt7.jpg,1.45m,40kg,1.45,40,19.02497027,19.02
+Linda Fiorentino3.jpg,1.73m,57kg,1.73,57,19.04507334,19.05
+Leonardo DiCaprio7.jpg,1.83m,75kg,1.83,75,22.39541342,22.4
+Lena Headey6.jpg,1.66m,54kg,1.66,54,19.59645812,19.6
+Rachel McAdams16.jpg,1.78 m,66 kg,1.78,66,20.83070319,20.83
+Kim Novak18.jpg,1.68m,55kg,1.68,55,19.48696145,19.49
+Kim Hunter17.jpg,1.57m,48kg,1.57,48,19.47340663,19.47
+Linda Hunt18.jpg,1.45m,40kg,1.45,40,19.02497027,19.02
+Kim Basinger19.jpg,1.71m,54kg,1.71,54,18.46722068,18.47
+Liam Hemsworth11.jpg,1.91m,89kg,1.91,89,24.39626107,24.4
+Liv Tyler12.jpg,1.78m,61kg,1.78,61,19.25261962,19.25
+Lake Bell1.jpg,1.73m,59kg,1.73,59,19.71332153,19.71
+Kevin James3.jpg,1.72m,113kg,1.72,113,38.19632234,38.2
+Pauline Collins10.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Kurt Russell2.jpg,1.79m,83kg,1.79,83,25.9043101,25.9
+Patty Duke19.jpg,1.85 m,82 kg,1.85,82,23.95909423,23.96
+Olivia Thirlby8.jpg,1.63 m,58 kg,1.63,58,21.8299522,21.83
+Richard Farnsworth5.jpg,1.85 m,78 kg,1.85,78,22.79035793,22.79
+Phil Mickelson3.jpg,1.87 m,100 kg,1.87,100,28.59675713,28.6
+Nigel Hawthorne2.jpg,1.80 m,68 kg,1.8,68,20.98765432,20.99
+Kevin Costner2.jpg,1.85m,88kg,1.85,88,25.71219869,25.71
+Peter Fonda12.jpg,1.35 m,50 kg,1.35,50,27.43484225,27.43
+Lily Aldridge13.jpg,1.75m,54kg,1.75,54,17.63265306,17.63
+Maggie Gyllenhaal7.jpg,1.73m,59kg,1.73,59,19.71332153,19.71
+Lance Henriksen4.jpg,1.80m,75kg,1.8,75,23.14814815,23.15
+Linda Hamilton19.jpg,1.68m,59kg,1.68,59,20.90419501,20.9
+Leslie Nielsen17.jpg,1.91m,91kg,1.91,91,24.94449165,24.94
+Liam Neeson15.jpg,1.93m,93kg,1.93,93,24.96711321,24.97
+Orlando Bloom11.jpg,1.69 m,77 kg,1.69,77,26.95984034,26.96
+Niecy Nash12.jpg,1.73 m,86 kg,1.73,86,28.73467206,28.73
+Louise Fletcher8.jpg,1.70m,61kg,1.7,61,21.10726644,21.11
+Kylie Jenner8.jpg,1.68m,63kg,1.68,63,22.32142857,22.32
+Marion Cotillard0.jpg,1.69 m,57 kg,1.69,57,19.95728441,19.96
+Rob Gronkowski8.jpg,1.73 m,61 kg,1.73,61,20.38156971,20.38
+Klaus Kinski8.jpg,1.65m,61kg,1.65,61,22.40587695,22.41
+Paddy Considine4.jpg,1.79 m,73 kg,1.79,73,22.78330889,22.78
+Randy Quaid1.jpg,1.83 m,73 kg,1.83,73,21.79820239,21.8
+Lance Henriksen15.jpg,1.80m,75kg,1.8,75,23.14814815,23.15
+Kevin Kline0.jpg,1.85m,77kg,1.85,77,22.49817385,22.5
+Mandy Moore7.jpg,1.76m,59kg,1.76,59,19.04700413,19.05
+Rachel Griffiths7.jpg,1.85 m,91 kg,1.85,91,26.58875091,26.59
+Rachel Weisz5.jpg,1.73 m,58 kg,1.73,58,19.37919743,19.38
+Lily Tomlin7.jpg,1.73m,63kg,1.73,63,21.0498179,21.05
+Rachel McAdams2.jpg,1.78 m,66 kg,1.78,66,20.83070319,20.83
+Kristin Scott Thomas16.jpg,1.73m,56kg,1.73,56,18.71094925,18.71
+Paul Giamatti16.jpg,1.80 m,68 kg,1.8,68,20.98765432,20.99
+Robert Duvall2.jpg,1.74 m,78 kg,1.74,78,25.76298058,25.76
+Kevin Bacon7.jpg,1.78m,80kg,1.78,80,25.2493372,25.25
+olivia holt15.jpg,1.73 m,78 kg,1.73,78,26.06167931,26.06
+Lindsey Vonn9.jpg,1.78m,73kg,1.78,73,23.0400202,23.04
+Robert Redford14.jpg,1.85 m,78 kg,1.85,78,22.79035793,22.79
+Queen Latifah1.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Lance Henriksen8.jpg,1.80m,75kg,1.8,75,23.14814815,23.15
+Leonardo DiCaprio13.jpg,1.83m,75kg,1.83,75,22.39541342,22.4
+Liv Tyler3.jpg,1.78m,61kg,1.78,61,19.25261962,19.25
+Noah Mills15.jpg,1.88 m,80 kg,1.88,80,22.63467632,22.63
+Piper Perabo15.jpg,1.65 m,59 kg,1.65,59,21.67125803,21.67
+Kim Basinger4.jpg,1.71m,54kg,1.71,54,18.46722068,18.47
+Robert Downey Jr2.jpg,1.77 m,83 kg,1.77,83,26.49302563,26.49
+Kourtney Kardashian10.jpg,1.52m,48kg,1.52,48,20.77562327,20.78
+Marion Cotillard2.jpg,1.69 m,57 kg,1.69,57,19.95728441,19.96
+Kristin Scott Thomas18.jpg,1.73m,56kg,1.73,56,18.71094925,18.71
+Raquel Welch13.jpg,1.93 m,100 kg,1.93,100,26.84635829,26.85
+Lee Marvin8.jpg,1.88m,86kg,1.88,86,24.33227705,24.33
+Lucy Liu13.jpg,1.60m,52kg,1.6,52,20.3125,20.31
+Lili Taylor17.jpg,1.60m,54kg,1.6,54,21.09375,21.09
+Patricia Neal6.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Kirsten Dunst8.jpg,1.68m,54kg,1.68,54,19.13265306,19.13
+Pixie Lott12.jpg,1.66 m,54 kg,1.66,54,19.59645812,19.6
+Kevin Kiley Jr17.jpg,1.93m,122kg,1.93,122,32.75255712,32.75
+Noomi Rapace15.jpg,1.57 m,51 kg,1.57,51,20.69049454,20.69
+Parker Posey17.jpg,1.75 m,56 kg,1.75,56,18.28571429,18.29
+Patty Duke10.jpg,1.85 m,82 kg,1.85,82,23.95909423,23.96
+Lili Taylor12.jpg,1.60m,54kg,1.6,54,21.09375,21.09
+Ralph Fiennes3.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Peter Sarsgaard13.jpg,1.88 m,82 kg,1.88,82,23.20054323,23.2
+Kevin Durant19.jpg,2.06m,109kg,2.06,109,25.68573852,25.69
+Robin Weigert14.jpg,1.68 m,66 kg,1.68,66,23.38435374,23.38
+Peter O Toole15.jpg,1.88 m,77 kg,1.88,77,21.78587596,21.79
+Kevin Hart3.jpg,1.63m,64kg,1.63,64,24.08822312,24.09
+Rebecca Romijn6.jpg,1.78 m,56 kg,1.78,56,17.67453604,17.67
+Lucy Liu19.jpg,1.60m,52kg,1.6,52,20.3125,20.31
+Leslie Nielsen19.jpg,1.91m,91kg,1.91,91,24.94449165,24.94
+Rhys Ifans6.jpg,1.63 m,55 kg,1.63,55,20.70081674,20.7
+Renee Zellweger6.jpg,1.56 m,57 kg,1.56,57,23.42209073,23.42
+Robert De Niro18.jpg,1.98 m,120 kg,1.98,120,30.60912152,30.61
+Lily Tomlin12.jpg,1.73m,63kg,1.73,63,21.0498179,21.05
+Olympia Dukakis7.jpg,1.71 m,52 kg,1.71,52,17.78324955,17.78
+Kim Kardashian West0.jpg,1.59m,56kg,1.59,56,22.15102251,22.15
+Peter Sellers6.jpg,1.80 m,71 kg,1.8,71,21.91358025,21.91
+Nicole Polizzi15.jpg,1.42 m,49 kg,1.42,49,24.30073398,24.3
+Lynn Redgrave12.jpg,1.78m,73kg,1.78,73,23.0400202,23.04
+Richard E. Grant11.jpg,1.65 m,68 kg,1.65,68,24.97704316,24.98
+Paul Rudd14.jpg,1.77 m,72 kg,1.77,72,22.98190175,22.98
+Peter Fonda18.jpg,1.35 m,50 kg,1.35,50,27.43484225,27.43
+Lena Headey12.jpg,1.66m,54kg,1.66,54,19.59645812,19.6
+Niecy Nash14.jpg,1.73 m,86 kg,1.73,86,28.73467206,28.73
+Kevin Durant2.jpg,2.06m,109kg,2.06,109,25.68573852,25.69
+Patricia Arquette6.jpg,1.65 m,54 kg,1.65,54,19.83471074,19.83
+Kevin Costner14.jpg,1.85m,88kg,1.85,88,25.71219869,25.71
+Robert De Niro12.jpg,1.98 m,120 kg,1.98,120,30.60912152,30.61
+Kirsten Dunst19.jpg,1.68m,54kg,1.68,54,19.13265306,19.13
+olivia holt19.jpg,1.73 m,78 kg,1.73,78,26.06167931,26.06
+Luke Wilson15.jpg,1.80m,81kg,1.8,81,25.0,25.0
+Pauline Collins12.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Robin Weigert0.jpg,1.68 m,66 kg,1.68,66,23.38435374,23.38
+Perez Hilton7.jpg,1.68 m,58 kg,1.68,58,20.54988662,20.55
+Lily Collins14.jpg,1.65m,51kg,1.65,51,18.73278237,18.73
+Paul Walker12.jpg,1.78 m,75 kg,1.78,75,23.67125363,23.67
+Ray Winstone9.jpg,1.93 m,102 kg,1.93,102,27.38328546,27.38
+Kristin Scott Thomas10.jpg,1.73m,56kg,1.73,56,18.71094925,18.71
+Ray Winstone8.jpg,1.93 m,102 kg,1.93,102,27.38328546,27.38
+Robert Mitchum6.jpg,1.73 m,75 kg,1.73,75,25.05930703,25.06
+Paris Hilton9.jpg,1.73 m,63 kg,1.73,63,21.0498179,21.05
+olivia holt8.jpg,1.73 m,78 kg,1.73,78,26.06167931,26.06
+Klaus Kinski5.jpg,1.65m,61kg,1.65,61,22.40587695,22.41
+Lily Tomlin6.jpg,1.73m,63kg,1.73,63,21.0498179,21.05
+Luke Bryan2.jpg,1.85m,88kg,1.85,88,25.71219869,25.71
+Lara Stone12.jpg,1.78m,63kg,1.78,63,19.88385305,19.88
+Oprah Winfrey4.jpg,1.63 m,58 kg,1.63,58,21.8299522,21.83
+Liv Ullmann0.jpg,1.78m,64kg,1.78,64,20.19946976,20.2
+Lili Taylor13.jpg,1.60m,54kg,1.6,54,21.09375,21.09
+Laura Dern12.jpg,1.78m,61kg,1.78,61,19.25261962,19.25
+Noomi Rapace16.jpg,1.57 m,51 kg,1.57,51,20.69049454,20.69
+Lee Marvin13.jpg,1.88m,86kg,1.88,86,24.33227705,24.33
+Paris Jackson15.jpg,1.68 m,55 kg,1.68,55,19.48696145,19.49
+Rita Moreno4.jpg,1.68 m,54 kg,1.68,54,19.13265306,19.13
+Lily Tomlin1.jpg,1.73m,63kg,1.73,63,21.0498179,21.05
+Rebecca Romijn14.jpg,1.78 m,56 kg,1.78,56,17.67453604,17.67
+Kurt Russell17.jpg,1.79m,83kg,1.79,83,25.9043101,25.9
+Lily Tomlin10.jpg,1.73m,63kg,1.73,63,21.0498179,21.05
+Lee Grant10.jpg,1.63m,55kg,1.63,55,20.70081674,20.7
+Ludacris14.jpg,1.73m,76kg,1.73,76,25.39343112,25.39
+Rita Hayworth3.jpg,1.69 m,50 kg,1.69,50,17.50638983,17.51
+Patricia Arquette10.jpg,1.65 m,54 kg,1.65,54,19.83471074,19.83
+Maria Bello10.jpg,1.65 m,59 kg,1.65,59,21.67125803,21.67
+Paddy Considine19.jpg,1.79 m,73 kg,1.79,73,22.78330889,22.78
+Robert Pattinson2.jpg,1.83 m,86 kg,1.83,86,25.68007405,25.68
+Rob Gronkowski3.jpg,1.73 m,61 kg,1.73,61,20.38156971,20.38
+Rihanna1.jpg,1.83 m,86 kg,1.83,86,25.68007405,25.68
+Kourtney Kardashian1.jpg,1.52m,48kg,1.52,48,20.77562327,20.78
+Leighton Meester6.jpg,1.65m,53kg,1.65,53,19.46740129,19.47
+Kevin Spacey7.jpg,1.78m,72kg,1.78,72,22.72440348,22.72
+Peter Fonda10.jpg,1.35 m,50 kg,1.35,50,27.43484225,27.43
+olivia holt4.jpg,1.73 m,78 kg,1.73,78,26.06167931,26.06
+Kim Basinger13.jpg,1.71m,54kg,1.71,54,18.46722068,18.47
+Lewis Hamilton17.jpg,1.74m,68kg,1.74,68,22.46003435,22.46
+Kevin Costner3.jpg,1.85m,88kg,1.85,88,25.71219869,25.71
+Rachel Griffiths10.jpg,1.85 m,91 kg,1.85,91,26.58875091,26.59
+Robert Duvall10.jpg,1.74 m,78 kg,1.74,78,25.76298058,25.76
+Lily Donaldson10.jpg,1.78m,55kg,1.78,55,17.35891933,17.36
+Leighton Meester3.jpg,1.65m,53kg,1.65,53,19.46740129,19.47
+Lena Dunham2.jpg,1.60m,63kg,1.6,63,24.609375,24.61
+Lupita Nyong o12.jpg,1.65m,51kg,1.65,51,18.73278237,18.73
+Kristen Bell19.jpg,1.55m,48kg,1.55,48,19.97918835,19.98
+Kim Kardashian West6.jpg,1.59m,56kg,1.59,56,22.15102251,22.15
+Mandy Moore11.jpg,1.76m,59kg,1.76,59,19.04700413,19.05
+Linda Hunt3.jpg,1.45m,40kg,1.45,40,19.02497027,19.02
+Paul McCartney10.jpg,1.72 m,86 kg,1.72,86,29.06976744,29.07
+Robin Weigert10.jpg,1.68 m,66 kg,1.68,66,23.38435374,23.38
+Pete Postlethwaite15.jpg,1.78 m,77 kg,1.78,77,24.30248706,24.3
+Louis C.K17.jpg,1.83m,90kg,1.83,90,26.8744961,26.87
+Marcello Mastroianni8.jpg,1.80 m,70 kg,1.8,70,21.60493827,21.6
+olivia holt7.jpg,1.73 m,78 kg,1.73,78,26.06167931,26.06
+Reese Witherspoon0.jpg,1.70 m,73 kg,1.7,73,25.25951557,25.26
+Noah Mills1.jpg,1.88 m,80 kg,1.88,80,22.63467632,22.63
+Patricia Neal12.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Linda Hunt16.jpg,1.45m,40kg,1.45,40,19.02497027,19.02
+Marlee Matlin10.jpg,1.65 m,54 kg,1.65,54,19.83471074,19.83
+Kevin Kline4.jpg,1.85m,77kg,1.85,77,22.49817385,22.5
+Laurence Fishburne7.jpg,1.84m,77kg,1.84,77,22.74338374,22.74
+Kurt Russell8.jpg,1.79m,83kg,1.79,83,25.9043101,25.9
+Kim Novak11.jpg,1.68m,55kg,1.68,55,19.48696145,19.49
+Rob Gronkowski15.jpg,1.73 m,61 kg,1.73,61,20.38156971,20.38
+Mario Lopez8.jpg,1.78 m,79 kg,1.78,79,24.93372049,24.93
+Mark Hamill8.jpg,1.75 m,70 kg,1.75,70,22.85714286,22.86
+Linda Hamilton12.jpg,1.68m,59kg,1.68,59,20.90419501,20.9
+Pauline Collins16.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Norman Reedus17.jpg,1.78 m,70 kg,1.78,70,22.09317005,22.09
+Marcello Mastroianni11.jpg,1.80 m,70 kg,1.8,70,21.60493827,21.6
+Norman Reedus19.jpg,1.78 m,70 kg,1.78,70,22.09317005,22.09
+Rinko Kikuchi13.jpg,1.73 m,60 kg,1.73,60,20.04744562,20.05
+Novak Djokovic16.jpg,1.88 m,77 kg,1.88,77,21.78587596,21.79
+Peter Fonda2.jpg,1.35 m,50 kg,1.35,50,27.43484225,27.43
+Robert Duvall3.jpg,1.74 m,78 kg,1.74,78,25.76298058,25.76
+Rihanna16.jpg,1.83 m,86 kg,1.83,86,25.68007405,25.68
+Khloe Kardashian18.jpg,1.77m,76kg,1.77,76,24.25867407,24.26
+Lady Gaga5.jpg,1.55m,53kg,1.55,53,22.0603538,22.06
+Lily Aldridge9.jpg,1.75m,54kg,1.75,54,17.63265306,17.63
+Parker Posey13.jpg,1.75 m,56 kg,1.75,56,18.28571429,18.29
+Queen Latifah16.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Red Buttons19.jpg,1.60 m,95 kg,1.6,95,37.109375,37.11
+Kiefer Sutherland16.jpg,1.75m,75kg,1.75,75,24.48979592,24.49
+Kevin Bacon2.jpg,1.78m,80kg,1.78,80,25.2493372,25.25
+Penelope Cruz17.jpg,1.63 m,59 kg,1.63,59,22.20633069,22.21
+Lady Gaga14.jpg,1.55m,53kg,1.55,53,22.0603538,22.06
+Paris Hilton18.jpg,1.73 m,63 kg,1.73,63,21.0498179,21.05
+Peter Dinklage1.jpg,1.77 m,73 kg,1.77,73,23.30109483,23.3
+Macy Gray15.jpg,1.83m,66kg,1.83,66,19.70796381,19.71
+Lynn Redgrave16.jpg,1.78m,73kg,1.78,73,23.0400202,23.04
+Lily Donaldson13.jpg,1.78m,55kg,1.78,55,17.35891933,17.36
+Leslie Nielsen10.jpg,1.91m,91kg,1.91,91,24.94449165,24.94
+Kim Hunter8.jpg,1.57m,48kg,1.57,48,19.47340663,19.47
+Khloe Kardashian4.jpg,1.77m,76kg,1.77,76,24.25867407,24.26
+Pauline Collins14.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Mariah Carey16.jpg,1.70 m,66 kg,1.7,66,22.83737024,22.84
+Rashida Jones10.jpg,1.68 m,64 kg,1.68,64,22.67573696,22.68
+Richard Gere2.jpg,1.83 m,91 kg,1.83,91,27.17310162,27.17
+Ludacris10.jpg,1.73m,76kg,1.73,76,25.39343112,25.39
+Lee Grant3.jpg,1.63m,55kg,1.63,55,20.70081674,20.7
+Paul McCartney2.jpg,1.72 m,86 kg,1.72,86,29.06976744,29.07
+LeBron Jamet18.jpg,2.06m,113kg,2.06,113,26.62833443,26.63
+Paula Patton14.jpg,1.88 m,77 kg,1.88,77,21.78587596,21.79
+Orlando Bloom1.jpg,1.69 m,77 kg,1.69,77,26.95984034,26.96
+Leonardo DiCaprio17.jpg,1.83m,75kg,1.83,75,22.39541342,22.4
+Rinko Kikuchi0.jpg,1.73 m,60 kg,1.73,60,20.04744562,20.05
+Paul Scofield8.jpg,1.78 m,77 kg,1.78,77,24.30248706,24.3
+Leonardo DiCaprio6.jpg,1.83m,75kg,1.83,75,22.39541342,22.4
+Pixie Lott8.jpg,1.66 m,54 kg,1.66,54,19.59645812,19.6
+Paula Patton5.jpg,1.88 m,77 kg,1.88,77,21.78587596,21.79
+Robert Pattinson7.jpg,1.83 m,86 kg,1.83,86,25.68007405,25.68
+Rihanna14.jpg,1.83 m,86 kg,1.83,86,25.68007405,25.68
+Patricia Arquette15.jpg,1.65 m,54 kg,1.65,54,19.83471074,19.83
+Maggie Grace19.jpg,1.75m,56kg,1.75,56,18.28571429,18.29
+Liv Tyler18.jpg,1.78m,61kg,1.78,61,19.25261962,19.25
+Margot Robbie1.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Rebel Wilson11.jpg,1.80 m,59 kg,1.8,59,18.20987654,18.21
+Phil Mickelson7.jpg,1.87 m,100 kg,1.87,100,28.59675713,28.6
+Kevin Durant13.jpg,2.06m,109kg,2.06,109,25.68573852,25.69
+Rhys Ifans18.jpg,1.63 m,55 kg,1.63,55,20.70081674,20.7
+Kiefer Sutherland11.jpg,1.75m,75kg,1.75,75,24.48979592,24.49
+Kristen Bell4.jpg,1.55m,48kg,1.55,48,19.97918835,19.98
+Ludacris7.jpg,1.73m,76kg,1.73,76,25.39343112,25.39
+Lisa Kudrow15.jpg,1.73m,61kg,1.73,61,20.38156971,20.38
+Peter O Toole8.jpg,1.88 m,77 kg,1.88,77,21.78587596,21.79
+Kevin Kline9.jpg,1.85m,77kg,1.85,77,22.49817385,22.5
+Kylie Jenner11.jpg,1.68m,63kg,1.68,63,22.32142857,22.32
+Mark Rylance2.jpg,1.82 m,80 kg,1.82,80,24.1516725,24.15
+Klaus Kinski17.jpg,1.65m,61kg,1.65,61,22.40587695,22.41
+Kim Novak14.jpg,1.68m,55kg,1.68,55,19.48696145,19.49
+Paul Dano2.jpg,1.90 m,84 kg,1.9,84,23.26869806,23.27
+Ralph Fiennes0.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Leonardo DiCaprio10.jpg,1.83m,75kg,1.83,75,22.39541342,22.4
+Paul Bettany11.jpg,1.57 m,49 kg,1.57,49,19.8791026,19.88
+Marcia Gay Harden19.jpg,1.63 m,54 kg,1.63,54,20.32443826,20.32
+Rob Gronkowski9.jpg,1.73 m,61 kg,1.73,61,20.38156971,20.38
+Kevin Spacey12.jpg,1.78m,72kg,1.78,72,22.72440348,22.72
+Reese Witherspoon5.jpg,1.70 m,73 kg,1.7,73,25.25951557,25.26
+Ralph Fiennes14.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Robert Redford7.jpg,1.85 m,78 kg,1.85,78,22.79035793,22.79
+Richard Dreyfuss2.jpg,1.78 m,82 kg,1.78,82,25.88057064,25.88
+Kristen Wiig3.jpg,1.65m,57kg,1.65,57,20.93663912,20.94
+Kylie Jenner1.jpg,1.68m,63kg,1.68,63,22.32142857,22.32
+Lindsay Lohan11.jpg,1.65m,52kg,1.65,52,19.10009183,19.1
+Pete Postlethwaite1.jpg,1.78 m,77 kg,1.78,77,24.30248706,24.3
+Piper Laurie1.jpg,1.86 m,86 kg,1.86,86,24.85836513,24.86
+Pixie Lott11.jpg,1.66 m,54 kg,1.66,54,19.59645812,19.6
+Paul McCartney18.jpg,1.72 m,86 kg,1.72,86,29.06976744,29.07
+Lena Headey1.jpg,1.66m,54kg,1.66,54,19.59645812,19.6
+Kim Kardashian West19.jpg,1.59m,56kg,1.59,56,22.15102251,22.15
+Mark Wahlberg18.jpg,1.73 m,78 kg,1.73,78,26.06167931,26.06
+Lena Dunham5.jpg,1.60m,63kg,1.6,63,24.609375,24.61
+Lionel Messi19.jpg,1.70m,72kg,1.7,72,24.91349481,24.91
+Queen Latifah12.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Novak Djokovic0.jpg,1.88 m,77 kg,1.88,77,21.78587596,21.79
+Kristin Scott Thomas4.jpg,1.73m,56kg,1.73,56,18.71094925,18.71
+Kim Novak9.jpg,1.68m,55kg,1.68,55,19.48696145,19.49
+Piper Laurie10.jpg,1.86 m,86 kg,1.86,86,24.85836513,24.86
+Lily Donaldson2.jpg,1.78m,55kg,1.78,55,17.35891933,17.36
+Kristen Bell8.jpg,1.55m,48kg,1.55,48,19.97918835,19.98
+Robert Downey Jr4.jpg,1.77 m,83 kg,1.77,83,26.49302563,26.49
+Kirsten Dunst9.jpg,1.68m,54kg,1.68,54,19.13265306,19.13
+Maria Menounos18.jpg,1.73 m,61 kg,1.73,61,20.38156971,20.38
+Marion Cotillard5.jpg,1.69 m,57 kg,1.69,57,19.95728441,19.96
+Lupita Nyong o19.jpg,1.65m,51kg,1.65,51,18.73278237,18.73
+Laura Linney4.jpg,1.70m,56kg,1.7,56,19.37716263,19.38
+Lisa Kudrow17.jpg,1.73m,61kg,1.73,61,20.38156971,20.38
+Richard Burton19.jpg,1.88 m,78 kg,1.88,78,22.06880942,22.07
+Lupita Nyong o13.jpg,1.65m,51kg,1.65,51,18.73278237,18.73
+Rachel McAdams1.jpg,1.78 m,66 kg,1.78,66,20.83070319,20.83
+Olivia Wilde12.jpg,1.63 m,52 kg,1.63,52,19.57168128,19.57
+Renee Zellweger7.jpg,1.56 m,57 kg,1.56,57,23.42209073,23.42
+Rachel Griffiths3.jpg,1.85 m,91 kg,1.85,91,26.58875091,26.59
+Paul McCartney0.jpg,1.72 m,86 kg,1.72,86,29.06976744,29.07
+Maika Dillon Monroe4.jpg,1.73m,54kg,1.73,54,18.04270106,18.04
+Peter Dinklage19.jpg,1.77 m,73 kg,1.77,73,23.30109483,23.3
+Lili Taylor6.jpg,1.60m,54kg,1.6,54,21.09375,21.09
+Pierce Brosnan15.jpg,1.77 m,70 kg,1.77,70,22.34351559,22.34
+Roberto Benigni7.jpg,1.78 m,73 kg,1.78,73,23.0400202,23.04
+Lionel Messi11.jpg,1.70m,72kg,1.7,72,24.91349481,24.91
+Queen Latifah8.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Liv Ullmann16.jpg,1.78m,64kg,1.78,64,20.19946976,20.2
+Rachel Weisz16.jpg,1.73 m,58 kg,1.73,58,19.37919743,19.38
+Kevin Durant8.jpg,2.06m,109kg,2.06,109,25.68573852,25.69
+Kevin Hart6.jpg,1.63m,64kg,1.63,64,24.08822312,24.09
+Olympia Dukakis16.jpg,1.71 m,52 kg,1.71,52,17.78324955,17.78
+Paul Bettany5.jpg,1.57 m,49 kg,1.57,49,19.8791026,19.88
+Marcello Mastroianni12.jpg,1.80 m,70 kg,1.8,70,21.60493827,21.6
+Patrick Wilson0.jpg,1.78 m,82 kg,1.78,82,25.88057064,25.88
+Liam Hemsworth2.jpg,1.91m,89kg,1.91,89,24.39626107,24.4
+Lupita Nyong o0.jpg,1.65m,51kg,1.65,51,18.73278237,18.73
+Patrick Wilson15.jpg,1.78 m,82 kg,1.78,82,25.88057064,25.88
+Laurence Fishburne10.jpg,1.84m,77kg,1.84,77,22.74338374,22.74
+Luke Wilson4.jpg,1.80m,81kg,1.8,81,25.0,25.0
+Louise Fletcher10.jpg,1.70m,61kg,1.7,61,21.10726644,21.11
+Owen Wilson6.jpg,1.75 m,75 kg,1.75,75,24.48979592,24.49
+Owen Wilson1.jpg,1.75 m,75 kg,1.75,75,24.48979592,24.49
+Oprah Winfrey9.jpg,1.63 m,58 kg,1.63,58,21.8299522,21.83
+Maggie Gyllenhaal2.jpg,1.73m,59kg,1.73,59,19.71332153,19.71
+Rinko Kikuchi9.jpg,1.73 m,60 kg,1.73,60,20.04744562,20.05
+Pauline Collins4.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Mark Wahlberg14.jpg,1.73 m,78 kg,1.73,78,26.06167931,26.06
+Kevin Kline12.jpg,1.85m,77kg,1.85,77,22.49817385,22.5
+Klaus Kinski4.jpg,1.65m,61kg,1.65,61,22.40587695,22.41
+Niecy Nash6.jpg,1.73 m,86 kg,1.73,86,28.73467206,28.73
+Klaus Kinski13.jpg,1.65m,61kg,1.65,61,22.40587695,22.41
+Richard Harris8.jpg,1.80 m,73 kg,1.8,73,22.5308642,22.53
+Lindsay Lohan2.jpg,1.65m,52kg,1.65,52,19.10009183,19.1
+Linda Hunt12.jpg,1.45m,40kg,1.45,40,19.02497027,19.02
+Paul Rudd13.jpg,1.77 m,72 kg,1.77,72,22.98190175,22.98
+Rashida Jones2.jpg,1.68 m,64 kg,1.68,64,22.67573696,22.68
+Leonardo DiCaprio18.jpg,1.83m,75kg,1.83,75,22.39541342,22.4
+Kevin Durant12.jpg,2.06m,109kg,2.06,109,25.68573852,25.69
+Peter Sarsgaard12.jpg,1.88 m,82 kg,1.88,82,23.20054323,23.2
+Maggie Grace14.jpg,1.75m,56kg,1.75,56,18.28571429,18.29
+Paddy Considine14.jpg,1.79 m,73 kg,1.79,73,22.78330889,22.78
+Piper Perabo3.jpg,1.65 m,59 kg,1.65,59,21.67125803,21.67
+Lily Donaldson15.jpg,1.78m,55kg,1.78,55,17.35891933,17.36
+Lupita Nyong o10.jpg,1.65m,51kg,1.65,51,18.73278237,18.73
+Lenny Kravitz15.jpg,1.75m,70kg,1.75,70,22.85714286,22.86
+Patricia Neal9.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Paddy Considine6.jpg,1.79 m,73 kg,1.79,73,22.78330889,22.78
+Kristen Wiig15.jpg,1.65m,57kg,1.65,57,20.93663912,20.94
+Kevin Costner18.jpg,1.85m,88kg,1.85,88,25.71219869,25.71
+Kylie Jenner13.jpg,1.68m,63kg,1.68,63,22.32142857,22.32
+Kim Basinger11.jpg,1.71m,54kg,1.71,54,18.46722068,18.47
+Patrick Swayze1.jpg,1.79 m,72 kg,1.79,72,22.47120876,22.47
+Peter Sarsgaard1.jpg,1.88 m,82 kg,1.88,82,23.20054323,23.2
+Pam Grier14.jpg,1.78 m,80 kg,1.78,80,25.2493372,25.25
+Paul Newman3.jpg,1.80 m,73 kg,1.8,73,22.5308642,22.53
+Robert Pattinson12.jpg,1.83 m,86 kg,1.83,86,25.68007405,25.68
+Rhys Ifans1.jpg,1.63 m,55 kg,1.63,55,20.70081674,20.7
+Kevin Hart11.jpg,1.63m,64kg,1.63,64,24.08822312,24.09
+Lake Bell19.jpg,1.73m,59kg,1.73,59,19.71332153,19.71
+Kristen Stewart16.jpg,1.65m,54kg,1.65,54,19.83471074,19.83
+Orlando Bloom4.jpg,1.69 m,77 kg,1.69,77,26.95984034,26.96
+Mads Mikkelsen15.jpg,1.83m,82kg,1.83,82,24.48565201,24.49
+Mark Rylance11.jpg,1.82 m,80 kg,1.82,80,24.1516725,24.15
+Mariah Carey19.jpg,1.70 m,66 kg,1.7,66,22.83737024,22.84
+Mark Rylance0.jpg,1.82 m,80 kg,1.82,80,24.1516725,24.15
+Patricia Arquette1.jpg,1.65 m,54 kg,1.65,54,19.83471074,19.83
+Kyle Richards11.jpg,1.65m,55kg,1.65,55,20.2020202,20.2
+Richard Burton1.jpg,1.88 m,78 kg,1.88,78,22.06880942,22.07
+Kevin Spacey6.jpg,1.78m,72kg,1.78,72,22.72440348,22.72
+Mark Rylance15.jpg,1.82 m,80 kg,1.82,80,24.1516725,24.15
+Patricia Neal2.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Patrick Stewart10.jpg,1.70 m,59 kg,1.7,59,20.41522491,20.42
+Kiefer Sutherland2.jpg,1.75m,75kg,1.75,75,24.48979592,24.49
+Peter Dinklage3.jpg,1.77 m,73 kg,1.77,73,23.30109483,23.3
+Piper Laurie16.jpg,1.86 m,86 kg,1.86,86,24.85836513,24.86
+Robert Duvall14.jpg,1.74 m,78 kg,1.74,78,25.76298058,25.76
+Lynn Redgrave7.jpg,1.78m,73kg,1.78,73,23.0400202,23.04
+Ralph Fiennes11.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Robert Pattinson15.jpg,1.83 m,86 kg,1.83,86,25.68007405,25.68
+Lady Gaga18.jpg,1.55m,53kg,1.55,53,22.0603538,22.06
+Kurt Russell9.jpg,1.79m,83kg,1.79,83,25.9043101,25.9
+Kirsten Dunst17.jpg,1.68m,54kg,1.68,54,19.13265306,19.13
+Khloe Kardashian14.jpg,1.77m,76kg,1.77,76,24.25867407,24.26
+Pete Postlethwaite18.jpg,1.78 m,77 kg,1.78,77,24.30248706,24.3
+Peter Sellers5.jpg,1.80 m,71 kg,1.8,71,21.91358025,21.91
+Laura Linney9.jpg,1.70m,56kg,1.7,56,19.37716263,19.38
+Nicole Polizzi17.jpg,1.42 m,49 kg,1.42,49,24.30073398,24.3
+Lionel Messi4.jpg,1.70m,72kg,1.7,72,24.91349481,24.91
+Richard Burton10.jpg,1.88 m,78 kg,1.88,78,22.06880942,22.07
+Liv Tyler19.jpg,1.78m,61kg,1.78,61,19.25261962,19.25
+Peter Ustinov8.jpg,1.75 m,68 kg,1.75,68,22.20408163,22.2
+Rhys Ifans3.jpg,1.63 m,55 kg,1.63,55,20.70081674,20.7
+Liv Ullmann19.jpg,1.78m,64kg,1.78,64,20.19946976,20.2
+Lindsey Vonn7.jpg,1.78m,73kg,1.78,73,23.0400202,23.04
+Paul McCartney16.jpg,1.72 m,86 kg,1.72,86,29.06976744,29.07
+Ray Stevenson16.jpg,1.83 m,86 kg,1.83,86,25.68007405,25.68
+Rita Moreno14.jpg,1.68 m,54 kg,1.68,54,19.13265306,19.13
+Patricia Clarkson9.jpg,1.60 m,58 kg,1.6,58,22.65625,22.66
+Lena Dunham14.jpg,1.60m,63kg,1.6,63,24.609375,24.61
+Kiefer Sutherland4.jpg,1.75m,75kg,1.75,75,24.48979592,24.49
+Kyle Richards18.jpg,1.65m,55kg,1.65,55,20.2020202,20.2
+Rhys Ifans4.jpg,1.63 m,55 kg,1.63,55,20.70081674,20.7
+Octavia Spencer9.jpg,1.57 m,82 kg,1.57,82,33.26706966,33.27
+Rebel Wilson3.jpg,1.80 m,59 kg,1.8,59,18.20987654,18.21
+Lily Donaldson4.jpg,1.78m,55kg,1.78,55,17.35891933,17.36
+Kevin Costner17.jpg,1.85m,88kg,1.85,88,25.71219869,25.71
+Lisa Kudrow2.jpg,1.73m,61kg,1.73,61,20.38156971,20.38
+Paris Jackson8.jpg,1.68 m,55 kg,1.68,55,19.48696145,19.49
+Lisa Kudrow16.jpg,1.73m,61kg,1.73,61,20.38156971,20.38
+Lesley Manville17.jpg,1.63m,60kg,1.63,60,22.58270917,22.58
+Lindsay Lohan16.jpg,1.65m,52kg,1.65,52,19.10009183,19.1
+Paul Giamatti19.jpg,1.80 m,68 kg,1.8,68,20.98765432,20.99
+Richard Harris17.jpg,1.80 m,73 kg,1.8,73,22.5308642,22.53
+Patty Duke3.jpg,1.85 m,82 kg,1.85,82,23.95909423,23.96
+Mandy Moore2.jpg,1.76m,59kg,1.76,59,19.04700413,19.05
+Peter Ustinov9.jpg,1.75 m,68 kg,1.75,68,22.20408163,22.2
+Pixie Lott3.jpg,1.66 m,54 kg,1.66,54,19.59645812,19.6
+Liv Ullmann7.jpg,1.78m,64kg,1.78,64,20.19946976,20.2
+Novak Djokovic4.jpg,1.88 m,77 kg,1.88,77,21.78587596,21.79
+Peter Dinklage7.jpg,1.77 m,73 kg,1.77,73,23.30109483,23.3
+Liev Schreiber16.jpg,1.92m,84kg,1.92,84,22.78645833,22.79
+Liza Minnelli19.jpg,1.63m,52kg,1.63,52,19.57168128,19.57
+Logan Lerman2.jpg,1.75m,68kg,1.75,68,22.20408163,22.2
+Reese Witherspoon9.jpg,1.70 m,73 kg,1.7,73,25.25951557,25.26
+Laura Dern16.jpg,1.78m,61kg,1.78,61,19.25261962,19.25
+Rachel Riley19.jpg,1.63 m,54 kg,1.63,54,20.32443826,20.32
+Lewis Hamilton3.jpg,1.74m,68kg,1.74,68,22.46003435,22.46
+Renee Zellweger3.jpg,1.56 m,57 kg,1.56,57,23.42209073,23.42
+Marlon Brando13.jpg,1.75 m,73 kg,1.75,73,23.83673469,23.84
+Lionel Messi5.jpg,1.70m,72kg,1.7,72,24.91349481,24.91
+Maika Dillon Monroe6.jpg,1.73m,54kg,1.73,54,18.04270106,18.04
+River Phoenix18.jpg,1.63 m,54 kg,1.63,54,20.32443826,20.32
+Kevin James0.jpg,1.72m,113kg,1.72,113,38.19632234,38.2
+Kim Kardashian West7.jpg,1.59m,56kg,1.59,56,22.15102251,22.15
+Kirsten Dunst5.jpg,1.68m,54kg,1.68,54,19.13265306,19.13
+Louis Gossett Jr3.jpg,1.88m,90kg,1.88,90,25.46401086,25.46
+Lesley Manville9.jpg,1.63m,60kg,1.63,60,22.58270917,22.58
+Robin Weigert16.jpg,1.68 m,66 kg,1.68,66,23.38435374,23.38
+Lena Dunham12.jpg,1.60m,63kg,1.6,63,24.609375,24.61
+Rashida Jones12.jpg,1.68 m,64 kg,1.68,64,22.67573696,22.68
+Lynn Redgrave4.jpg,1.78m,73kg,1.78,73,23.0400202,23.04
+Peter Dinklage9.jpg,1.77 m,73 kg,1.77,73,23.30109483,23.3
+Leighton Meester1.jpg,1.65m,53kg,1.65,53,19.46740129,19.47
+Patty Duke4.jpg,1.85 m,82 kg,1.85,82,23.95909423,23.96
+Lewis Hamilton16.jpg,1.74m,68kg,1.74,68,22.46003435,22.46
+Marion Cotillard8.jpg,1.69 m,57 kg,1.69,57,19.95728441,19.96
+Louis C.K16.jpg,1.83m,90kg,1.83,90,26.8744961,26.87
+Laura Dern3.jpg,1.78m,61kg,1.78,61,19.25261962,19.25
+Liv Ullmann1.jpg,1.78m,64kg,1.78,64,20.19946976,20.2
+Ralph Fiennes15.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Richard Burton11.jpg,1.88 m,78 kg,1.88,78,22.06880942,22.07
+Olivia Wilde11.jpg,1.63 m,52 kg,1.63,52,19.57168128,19.57
+Kristin Scott Thomas19.jpg,1.73m,56kg,1.73,56,18.71094925,18.71
+River Phoenix2.jpg,1.63 m,54 kg,1.63,54,20.32443826,20.32
+Lucy Liu0.jpg,1.60m,52kg,1.6,52,20.3125,20.31
+Margot Robbie14.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Mandy Moore14.jpg,1.76m,59kg,1.76,59,19.04700413,19.05
+Maria Menounos5.jpg,1.73 m,61 kg,1.73,61,20.38156971,20.38
+Paul Walker4.jpg,1.78 m,75 kg,1.78,75,23.67125363,23.67
+Kevin Spacey2.jpg,1.78m,72kg,1.78,72,22.72440348,22.72
+Lesley Manville19.jpg,1.63m,60kg,1.63,60,22.58270917,22.58
+Philip Seymour Hoffman1.jpg,1.91 m,91 kg,1.91,91,24.94449165,24.94
+Peter O Toole0.jpg,1.88 m,77 kg,1.88,77,21.78587596,21.79
+Kevin Kiley Jr10.jpg,1.93m,122kg,1.93,122,32.75255712,32.75
+Linda Hunt14.jpg,1.45m,40kg,1.45,40,19.02497027,19.02
+Kim Hunter9.jpg,1.57m,48kg,1.57,48,19.47340663,19.47
+Pam Grier17.jpg,1.78 m,80 kg,1.78,80,25.2493372,25.25
+Rebel Wilson4.jpg,1.80 m,59 kg,1.8,59,18.20987654,18.21
+Mariah Carey1.jpg,1.70 m,66 kg,1.7,66,22.83737024,22.84
+Patricia Clarkson8.jpg,1.60 m,58 kg,1.6,58,22.65625,22.66
+Raquel Welch10.jpg,1.93 m,100 kg,1.93,100,26.84635829,26.85
+Richard Dreyfuss12.jpg,1.78 m,82 kg,1.78,82,25.88057064,25.88
+Patrick Swayze19.jpg,1.79 m,72 kg,1.79,72,22.47120876,22.47
+Red Buttons18.jpg,1.60 m,95 kg,1.6,95,37.109375,37.11
+Rob Gronkowski0.jpg,1.73 m,61 kg,1.73,61,20.38156971,20.38
+Lee Marvin2.jpg,1.88m,86kg,1.88,86,24.33227705,24.33
+Lisa Kudrow13.jpg,1.73m,61kg,1.73,61,20.38156971,20.38
+Kourtney Kardashian2.jpg,1.52m,48kg,1.52,48,20.77562327,20.78
+Peter Sellers11.jpg,1.80 m,71 kg,1.8,71,21.91358025,21.91
+Paula Patton3.jpg,1.88 m,77 kg,1.88,77,21.78587596,21.79
+Robert Duvall7.jpg,1.74 m,78 kg,1.74,78,25.76298058,25.76
+Renee Zellweger0.jpg,1.56 m,57 kg,1.56,57,23.42209073,23.42
+Ludacris1.jpg,1.73m,76kg,1.73,76,25.39343112,25.39
+Rhys Ifans5.jpg,1.63 m,55 kg,1.63,55,20.70081674,20.7
+Paris Hilton10.jpg,1.73 m,63 kg,1.73,63,21.0498179,21.05
+Marlon Brando6.jpg,1.75 m,73 kg,1.75,73,23.83673469,23.84
+Noah Mills3.jpg,1.88 m,80 kg,1.88,80,22.63467632,22.63
+Liam Hemsworth5.jpg,1.91m,89kg,1.91,89,24.39626107,24.4
+Peter Sarsgaard15.jpg,1.88 m,82 kg,1.88,82,23.20054323,23.2
+Olivia Wilde18.jpg,1.63 m,52 kg,1.63,52,19.57168128,19.57
+Piper Perabo5.jpg,1.65 m,59 kg,1.65,59,21.67125803,21.67
+Octavia Spencer10.jpg,1.57 m,82 kg,1.57,82,33.26706966,33.27
+Lynn Redgrave14.jpg,1.78m,73kg,1.78,73,23.0400202,23.04
+Octavia Spencer7.jpg,1.57 m,82 kg,1.57,82,33.26706966,33.27
+Lara Stone4.jpg,1.78m,63kg,1.78,63,19.88385305,19.88
+Louis C.K1.jpg,1.83m,90kg,1.83,90,26.8744961,26.87
+Paul Giamatti15.jpg,1.80 m,68 kg,1.8,68,20.98765432,20.99
+Phil Mickelson10.jpg,1.87 m,100 kg,1.87,100,28.59675713,28.6
+Novak Djokovic17.jpg,1.88 m,77 kg,1.88,77,21.78587596,21.79
+Laurence Fishburne5.jpg,1.84m,77kg,1.84,77,22.74338374,22.74
+Marion Cotillard17.jpg,1.69 m,57 kg,1.69,57,19.95728441,19.96
+Marion Cotillard9.jpg,1.69 m,57 kg,1.69,57,19.95728441,19.96
+Peter O Toole12.jpg,1.88 m,77 kg,1.88,77,21.78587596,21.79
+Noah Mills10.jpg,1.88 m,80 kg,1.88,80,22.63467632,22.63
+Lily Collins11.jpg,1.65m,51kg,1.65,51,18.73278237,18.73
+Maria Bello2.jpg,1.65 m,59 kg,1.65,59,21.67125803,21.67
+Olivia Wilde8.jpg,1.63 m,52 kg,1.63,52,19.57168128,19.57
+Robert Redford0.jpg,1.85 m,78 kg,1.85,78,22.79035793,22.79
+Lupita Nyong o15.jpg,1.65m,51kg,1.65,51,18.73278237,18.73
+Richard Harris15.jpg,1.80 m,73 kg,1.8,73,22.5308642,22.53
+Laura Marano13.jpg,1.55m,50kg,1.55,50,20.81165453,20.81
+Nigel Hawthorne0.jpg,1.80 m,68 kg,1.8,68,20.98765432,20.99
+Lewis Hamilton7.jpg,1.74m,68kg,1.74,68,22.46003435,22.46
+Lupita Nyong o6.jpg,1.65m,51kg,1.65,51,18.73278237,18.73
+Maggie Grace15.jpg,1.75m,56kg,1.75,56,18.28571429,18.29
+Marcello Mastroianni14.jpg,1.80 m,70 kg,1.8,70,21.60493827,21.6
+Marlee Matlin4.jpg,1.65 m,54 kg,1.65,54,19.83471074,19.83
+Kristen Bell14.jpg,1.55m,48kg,1.55,48,19.97918835,19.98
+Leonardo DiCaprio19.jpg,1.83m,75kg,1.83,75,22.39541342,22.4
+Paul Giamatti13.jpg,1.80 m,68 kg,1.8,68,20.98765432,20.99
+Louise Fletcher18.jpg,1.70m,61kg,1.7,61,21.10726644,21.11
+Lynn Redgrave2.jpg,1.78m,73kg,1.78,73,23.0400202,23.04
+Rashida Jones14.jpg,1.68 m,64 kg,1.68,64,22.67573696,22.68
+Richard E. Grant13.jpg,1.65 m,68 kg,1.65,68,24.97704316,24.98
+Patricia Neal17.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Rebel Wilson19.jpg,1.80 m,59 kg,1.8,59,18.20987654,18.21
+Marlee Matlin0.jpg,1.65 m,54 kg,1.65,54,19.83471074,19.83
+Logan Lerman8.jpg,1.75m,68kg,1.75,68,22.20408163,22.2
+Khloe Kardashian8.jpg,1.77m,76kg,1.77,76,24.25867407,24.26
+Rachel Riley9.jpg,1.63 m,54 kg,1.63,54,20.32443826,20.32
+Raquel Welch17.jpg,1.93 m,100 kg,1.93,100,26.84635829,26.85
+Randy Quaid9.jpg,1.83 m,73 kg,1.83,73,21.79820239,21.8
+Mark Ruffalo8.jpg,1.73 m,77 kg,1.73,77,25.72755521,25.73
+Richard Farnsworth0.jpg,1.85 m,78 kg,1.85,78,22.79035793,22.79
+Patrick Swayze9.jpg,1.79 m,72 kg,1.79,72,22.47120876,22.47
+Reese Witherspoon6.jpg,1.70 m,73 kg,1.7,73,25.25951557,25.26
+Olivia Newton-John5.jpg,1.57 m,52 kg,1.57,52,21.09619051,21.1
+Richard Harris16.jpg,1.80 m,73 kg,1.8,73,22.5308642,22.53
+Khloe Kardashian3.jpg,1.77m,76kg,1.77,76,24.25867407,24.26
+Maika Dillon Monroe8.jpg,1.73m,54kg,1.73,54,18.04270106,18.04
+Piper Perabo2.jpg,1.65 m,59 kg,1.65,59,21.67125803,21.67
+Kourtney Kardashian19.jpg,1.52m,48kg,1.52,48,20.77562327,20.78
+Paul Walker18.jpg,1.78 m,75 kg,1.78,75,23.67125363,23.67
+Kurt Russell18.jpg,1.79m,83kg,1.79,83,25.9043101,25.9
+Mark Strong17.jpg,1.85 m,85 kg,1.85,85,24.83564646,24.84
+Marlee Matlin19.jpg,1.65 m,54 kg,1.65,54,19.83471074,19.83
+Lionel Messi3.jpg,1.70m,72kg,1.7,72,24.91349481,24.91
+Pauline Collins6.jpg,1.68 m,57 kg,1.68,57,20.19557823,20.2
+Kylie Jenner9.jpg,1.68m,63kg,1.68,63,22.32142857,22.32
+Luke Bryan19.jpg,1.85m,88kg,1.85,88,25.71219869,25.71
+Penelope Cruz8.jpg,1.63 m,59 kg,1.63,59,22.20633069,22.21
+Maria Bello15.jpg,1.65 m,59 kg,1.65,59,21.67125803,21.67
+Robert Forster6.jpg,1.74 m,72 kg,1.74,72,23.78121284,23.78
+Owen Wilson18.jpg,1.75 m,75 kg,1.75,75,24.48979592,24.49
+Mark Rylance16.jpg,1.82 m,80 kg,1.82,80,24.1516725,24.15
+Maria Menounos2.jpg,1.73 m,61 kg,1.73,61,20.38156971,20.38
+Kourtney Kardashian12.jpg,1.52m,48kg,1.52,48,20.77562327,20.78
+Kylie Jenner16.jpg,1.68m,63kg,1.68,63,22.32142857,22.32
+Laura Dern1.jpg,1.78m,61kg,1.78,61,19.25261962,19.25
+Lindsay Lohan8.jpg,1.65m,52kg,1.65,52,19.10009183,19.1
+Piper Perabo11.jpg,1.65 m,59 kg,1.65,59,21.67125803,21.67
+Noah Mills12.jpg,1.88 m,80 kg,1.88,80,22.63467632,22.63
+Leslie Mann10.jpg,1.69m,56kg,1.69,56,19.60715661,19.61
+olivia holt2.jpg,1.73 m,78 kg,1.73,78,26.06167931,26.06
+Kevin Hart1.jpg,1.63m,64kg,1.63,64,24.08822312,24.09
+Robert Forster11.jpg,1.74 m,72 kg,1.74,72,23.78121284,23.78
+Leonardo DiCaprio8.jpg,1.83m,75kg,1.83,75,22.39541342,22.4
+Kim Kardashian West4.jpg,1.59m,56kg,1.59,56,22.15102251,22.15
+Paula Patton6.jpg,1.88 m,77 kg,1.88,77,21.78587596,21.79
+Lily Donaldson11.jpg,1.78m,55kg,1.78,55,17.35891933,17.36
+Macy Gray1.jpg,1.83m,66kg,1.83,66,19.70796381,19.71
+Paris Hilton3.jpg,1.73 m,63 kg,1.73,63,21.0498179,21.05
+Peter Fonda16.jpg,1.35 m,50 kg,1.35,50,27.43484225,27.43
+Liam Neeson17.jpg,1.93m,93kg,1.93,93,24.96711321,24.97
+Patrick Stewart4.jpg,1.70 m,59 kg,1.7,59,20.41522491,20.42
+Rebecca Hall16.jpg,1.75 m,102 kg,1.75,102,33.30612245,33.31
+Kim Hunter1.jpg,1.57m,48kg,1.57,48,19.47340663,19.47
+Mark Strong18.jpg,1.85 m,85 kg,1.85,85,24.83564646,24.84
+Lily Collins8.jpg,1.65m,51kg,1.65,51,18.73278237,18.73
+Nigel Hawthorne1.jpg,1.80 m,68 kg,1.8,68,20.98765432,20.99
+Kevin James16.jpg,1.72m,113kg,1.72,113,38.19632234,38.2
+Macy Gray4.jpg,1.83m,66kg,1.83,66,19.70796381,19.71
+Patricia Clarkson5.jpg,1.60 m,58 kg,1.6,58,22.65625,22.66
+Richard Burton8.jpg,1.88 m,78 kg,1.88,78,22.06880942,22.07
+Linda Hunt4.jpg,1.45m,40kg,1.45,40,19.02497027,19.02
+Pam Grier9.jpg,1.78 m,80 kg,1.78,80,25.2493372,25.25
+Paul Bettany0.jpg,1.57 m,49 kg,1.57,49,19.8791026,19.88
+Ray Liotta9.jpg,1.63 m,56 kg,1.63,56,21.07719523,21.08
+Kurt Russell6.jpg,1.79m,83kg,1.79,83,25.9043101,25.9
+Red Buttons6.jpg,1.60 m,95 kg,1.6,95,37.109375,37.11
+Richard Gere5.jpg,1.83 m,91 kg,1.83,91,27.17310162,27.17
+Orlando Bloom14.jpg,1.69 m,77 kg,1.69,77,26.95984034,26.96
+Mads Mikkelsen0.jpg,1.83m,82kg,1.83,82,24.48565201,24.49
+Mark Ruffalo11.jpg,1.73 m,77 kg,1.73,77,25.72755521,25.73
+Reese Witherspoon1.jpg,1.70 m,73 kg,1.7,73,25.25951557,25.26
+Randy Quaid13.jpg,1.83 m,73 kg,1.83,73,21.79820239,21.8
+Robert Shaw8.jpg,1.79 m,70 kg,1.79,70,21.84700852,21.85
+Liev Schreiber2.jpg,1.92m,84kg,1.92,84,22.78645833,22.79
+Paul Bettany6.jpg,1.57 m,49 kg,1.57,49,19.8791026,19.88
+Kirsten Dunst11.jpg,1.68m,54kg,1.68,54,19.13265306,19.13
+Kim Novak4.jpg,1.68m,55kg,1.68,55,19.48696145,19.49
+River Phoenix3.jpg,1.63 m,54 kg,1.63,54,20.32443826,20.32
+Lauren Bacall1.jpg,1.73m,57kg,1.73,57,19.04507334,19.05
+Rinko Kikuchi6.jpg,1.73 m,60 kg,1.73,60,20.04744562,20.05
+Lily Tomlin2.jpg,1.73m,63kg,1.73,63,21.0498179,21.05
+Marlee Matlin2.jpg,1.65 m,54 kg,1.65,54,19.83471074,19.83
+Mariah Carey12.jpg,1.70 m,66 kg,1.7,66,22.83737024,22.84
+Marisa Tomei4.jpg,1.57 m,54 kg,1.57,54,21.90758246,21.91
+Kurt Russell11.jpg,1.79m,83kg,1.79,83,25.9043101,25.9
+Philip Seymour Hoffman18.jpg,1.91 m,91 kg,1.91,91,24.94449165,24.94
+Niecy Nash8.jpg,1.73 m,86 kg,1.73,86,28.73467206,28.73
+Lake Bell14.jpg,1.73m,59kg,1.73,59,19.71332153,19.71
+Louise Fletcher6.jpg,1.70m,61kg,1.7,61,21.10726644,21.11
+Richard E. Grant8.jpg,1.65 m,68 kg,1.65,68,24.97704316,24.98
+Robert Downey Jr16.jpg,1.77 m,83 kg,1.77,83,26.49302563,26.49
+Patrick Swayze12.jpg,1.79 m,72 kg,1.79,72,22.47120876,22.47
+Lake Bell0.jpg,1.73m,59kg,1.73,59,19.71332153,19.71
+Reese Witherspoon4.jpg,1.70 m,73 kg,1.7,73,25.25951557,25.26
+Lili Taylor8.jpg,1.60m,54kg,1.6,54,21.09375,21.09
+Lara Stone17.jpg,1.78m,63kg,1.78,63,19.88385305,19.88
+Lara Stone7.jpg,1.78m,63kg,1.78,63,19.88385305,19.88
+Liv Ullmann14.jpg,1.78m,64kg,1.78,64,20.19946976,20.2
+Laura Marano10.jpg,1.55m,50kg,1.55,50,20.81165453,20.81
+Kyle Richards10.jpg,1.65m,55kg,1.65,55,20.2020202,20.2
+Maria Bello7.jpg,1.65 m,59 kg,1.65,59,21.67125803,21.67
+Kim Basinger8.jpg,1.71m,54kg,1.71,54,18.46722068,18.47
+Norman Reedus9.jpg,1.78 m,70 kg,1.78,70,22.09317005,22.09
+Rachel Riley6.jpg,1.63 m,54 kg,1.63,54,20.32443826,20.32
+Ray Stevenson17.jpg,1.83 m,86 kg,1.83,86,25.68007405,25.68
+Marlee Matlin8.jpg,1.65 m,54 kg,1.65,54,19.83471074,19.83
+Robert Forster12.jpg,1.74 m,72 kg,1.74,72,23.78121284,23.78
+Louis C.K12.jpg,1.83m,90kg,1.83,90,26.8744961,26.87
+Rebecca Romijn13.jpg,1.78 m,56 kg,1.78,56,17.67453604,17.67
+Richard E. Grant17.jpg,1.65 m,68 kg,1.65,68,24.97704316,24.98
+Richard Gere12.jpg,1.83 m,91 kg,1.83,91,27.17310162,27.17
+Robin Weigert17.jpg,1.68 m,66 kg,1.68,66,23.38435374,23.38
+Mark Hamill17.jpg,1.75 m,70 kg,1.75,70,22.85714286,22.86
+Mark Strong19.jpg,1.85 m,85 kg,1.85,85,24.83564646,24.84
+Olga Kurylenko7.jpg,1.70 m,54 kg,1.7,54,18.68512111,18.69
+Leonardo DiCaprio11.jpg,1.83m,75kg,1.83,75,22.39541342,22.4
+Paul Scofield4.jpg,1.78 m,77 kg,1.78,77,24.30248706,24.3
+Perez Hilton2.jpg,1.68 m,58 kg,1.68,58,20.54988662,20.55
+Robert De Niro11.jpg,1.98 m,120 kg,1.98,120,30.60912152,30.61
+Raquel Welch6.jpg,1.93 m,100 kg,1.93,100,26.84635829,26.85
+Lucy Liu18.jpg,1.60m,52kg,1.6,52,20.3125,20.31
+Laura Dern8.jpg,1.78m,61kg,1.78,61,19.25261962,19.25
+Renee Zellweger19.jpg,1.56 m,57 kg,1.56,57,23.42209073,23.42
+Maika Dillon Monroe7.jpg,1.73m,54kg,1.73,54,18.04270106,18.04
+Kevin Bacon0.jpg,1.78m,80kg,1.78,80,25.2493372,25.25
+Linda Fiorentino12.jpg,1.73m,57kg,1.73,57,19.04507334,19.05
+Paris Hilton7.jpg,1.73 m,63 kg,1.73,63,21.0498179,21.05
+Robert Mitchum2.jpg,1.73 m,75 kg,1.73,75,25.05930703,25.06
+Mark Wahlberg9.jpg,1.73 m,78 kg,1.73,78,26.06167931,26.06
+Patricia Arquette8.jpg,1.65 m,54 kg,1.65,54,19.83471074,19.83
+Pam Grier4.jpg,1.78 m,80 kg,1.78,80,25.2493372,25.25
+Kim Kardashian West15.jpg,1.59m,56kg,1.59,56,22.15102251,22.15
+Louise Fletcher4.jpg,1.70m,61kg,1.7,61,21.10726644,21.11
+Rachel Weisz13.jpg,1.73 m,58 kg,1.73,58,19.37919743,19.38
+Robert Duvall12.jpg,1.74 m,78 kg,1.74,78,25.76298058,25.76
+Peter Dinklage10.jpg,1.77 m,73 kg,1.77,73,23.30109483,23.3
+Paula Patton11.jpg,1.88 m,77 kg,1.88,77,21.78587596,21.79
+Laurence Fishburne18.jpg,1.84m,77kg,1.84,77,22.74338374,22.74
+Mark Strong3.jpg,1.85 m,85 kg,1.85,85,24.83564646,24.84
+Linda Hunt13.jpg,1.45m,40kg,1.45,40,19.02497027,19.02
+Lionel Messi6.jpg,1.70m,72kg,1.7,72,24.91349481,24.91
+Khloe Kardashian5.jpg,1.77m,76kg,1.77,76,24.25867407,24.26
+Kim Novak8.jpg,1.68m,55kg,1.68,55,19.48696145,19.49
+Peter Fonda19.jpg,1.35 m,50 kg,1.35,50,27.43484225,27.43
+Robin Weigert3.jpg,1.68 m,66 kg,1.68,66,23.38435374,23.38
+Rachel Griffiths15.jpg,1.85 m,91 kg,1.85,91,26.58875091,26.59
+Leslie Nielsen12.jpg,1.91m,91kg,1.91,91,24.94449165,24.94
+Patrick Wilson1.jpg,1.78 m,82 kg,1.78,82,25.88057064,25.88
+Louis C.K8.jpg,1.83m,90kg,1.83,90,26.8744961,26.87
+Lee Grant19.jpg,1.63m,55kg,1.63,55,20.70081674,20.7
+Pierce Brosnan10.jpg,1.77 m,70 kg,1.77,70,22.34351559,22.34
+Kristin Scott Thomas6.jpg,1.73m,56kg,1.73,56,18.71094925,18.71
+Rinko Kikuchi18.jpg,1.73 m,60 kg,1.73,60,20.04744562,20.05
+Kim Basinger7.jpg,1.71m,54kg,1.71,54,18.46722068,18.47
+Olivia Thirlby12.jpg,1.63 m,58 kg,1.63,58,21.8299522,21.83
+Phil Mickelson16.jpg,1.87 m,100 kg,1.87,100,28.59675713,28.6
